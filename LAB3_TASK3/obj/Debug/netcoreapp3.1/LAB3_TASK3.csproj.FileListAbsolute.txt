@@ -1,0 +1,14 @@
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.exe
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.deps.json
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.runtimeconfig.json
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.runtimeconfig.dev.json
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.dll
+D:\C#\LAB3_TASK3\bin\Debug\netcoreapp3.1\LAB3_TASK3.pdb
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.csproj.AssemblyReference.cache
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.AssemblyInfoInputs.cache
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.AssemblyInfo.cs
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.csproj.CoreCompileInputs.cache
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.dll
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.pdb
+D:\C#\LAB3_TASK3\obj\Debug\netcoreapp3.1\LAB3_TASK3.genruntimeconfig.cache

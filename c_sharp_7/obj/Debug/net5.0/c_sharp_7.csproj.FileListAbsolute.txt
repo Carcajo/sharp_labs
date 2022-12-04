@@ -1,0 +1,16 @@
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.exe
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.deps.json
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.runtimeconfig.json
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.runtimeconfig.dev.json
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.dll
+D:\C#\c_sharp_7\bin\Debug\net5.0\ref\c_sharp_7.dll
+D:\C#\c_sharp_7\bin\Debug\net5.0\c_sharp_7.pdb
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.csproj.AssemblyReference.cache
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.AssemblyInfoInputs.cache
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.AssemblyInfo.cs
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.csproj.CoreCompileInputs.cache
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.dll
+D:\C#\c_sharp_7\obj\Debug\net5.0\ref\c_sharp_7.dll
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.pdb
+D:\C#\c_sharp_7\obj\Debug\net5.0\c_sharp_7.genruntimeconfig.cache
